@@ -18,18 +18,15 @@ MERN STACK DEVELOPER | PROBLEM SOLVER | CHESS ENTHUSIAST ♟️
 
 <br>
 
-## 🌐 Connect With Me
+## 👨‍💻 About Me
 
-<p align="start">
-<a href="https://www.linkedin.com/in/deeepsinghh/">
-<img src="https://img.shields.io/badge/LinkedIn-1F2937?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:deep.singhh1704@gmail.com">
-<img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+I build full-stack applications that are clean, scalable, and production-ready.
 
-<br>
+- ⚡ MERN Stack Developer  
+- 🧩 Problem Solver & DSA Enthusiast  
+- 🤖 Exploring AI-driven web systems  
+- ♟️ Chess Player who believes strategy wins games — in chess & in code  
+- 📈 Focused on growth, consistency, and long-term mastery
 
 ## 🧠 Programming Languages
 
@@ -92,19 +89,16 @@ MERN STACK DEVELOPER | PROBLEM SOLVER | CHESS ENTHUSIAST ♟️
 ## 📊 GitHub Stats
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Deepsingh1704&theme=transparent" />
 </p>
 
 <br>
-
 
 ## 📊 Contribution Overview
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepsingh1704&theme=github-compact" />
 </p>
-
 
 <br>
 
@@ -116,9 +110,26 @@ MERN STACK DEVELOPER | PROBLEM SOLVER | CHESS ENTHUSIAST ♟️
 
 ## ♟️ Quote of the Day
 
-
 <div align="right"><i>
 “Only the player with the initiative has the right to attack.”
 </i></div>
+
+<br>
+
+## 🌐 Connect With Me
+
+<p align="start">
+<a href="https://www.linkedin.com/in/deeepsinghh/">
+<img src="https://img.shields.io/badge/LinkedIn-1F2937?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:deep.singhh1704@gmail.com">
+<img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.chess.com/member/mr_deeeppp">
+<img src="https://img.shields.io/badge/Chess.com-1F2937?style=for-the-badge&logo=chessdotcom&logoColor=white"/>
+</a>
+</p>
 
 <br>
