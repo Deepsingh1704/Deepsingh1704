@@ -1,24 +1,129 @@
-## Hello! Developers 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deeepsinghh/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deep.singhh1704@gmail.com) 
+<!-- Top Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:2563EB&height=190&section=header&text=DEEP%20SINGH&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Deepsingh1704&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Deepsingh1704&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepsingh1704&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h1 align="center">
+  HELLO! DEVELOPERS 
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/hand-wave.gif" width="28px">
+</h1>
+
+<p align="center">
+MERN STACK DEVELOPER | PROBLEM SOLVER | CHESS ENTHUSIAST ♟️
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;Clean+Code+Focused;Targeting+1800+Chess+Rating;Open+To+Opportunities" />
+</p>
+
+<br>
+
+## 🌐 Connect With Me
+
+<p align="start">
+<a href="https://www.linkedin.com/in/deeepsinghh/">
+<img src="https://img.shields.io/badge/LinkedIn-1F2937?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:deep.singhh1704@gmail.com">
+<img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+<br>
+
+## 🧠 Programming Languages
+
+<p align="start">
+<img src="https://img.shields.io/badge/Java-1F2937?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-1F2937?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
+
+<br>
+
+## 🚀 Frontend
+
+<p align="start">
+<img src="https://img.shields.io/badge/React-1F2937?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Redux-1F2937?style=for-the-badge&logo=redux&logoColor=764ABC" />
+<img src="https://img.shields.io/badge/React_Router-1F2937?style=for-the-badge&logo=react-router&logoColor=CA4245" />
+<img src="https://img.shields.io/badge/React_Hook_Form-1F2937?style=for-the-badge&logo=reacthookform&logoColor=EC5990" />
+<img src="https://img.shields.io/badge/TailwindCSS-1F2937?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+<img src="https://img.shields.io/badge/Bootstrap-1F2937?style=for-the-badge&logo=bootstrap&logoColor=8511FA" />
+<img src="https://img.shields.io/badge/Vite-1F2937?style=for-the-badge&logo=vite&logoColor=646CFF" />
+</p>
+
+<br>
+
+## ⚙️ Backend
+
+<p align="start">
+<img src="https://img.shields.io/badge/Node.js-1F2937?style=for-the-badge&logo=node.js&logoColor=6DA55F" />
+<img src="https://img.shields.io/badge/Express.js-1F2937?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-1F2937?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-1F2937?style=for-the-badge&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/EJS-1F2937?style=for-the-badge&logo=ejs&logoColor=B4CA65" />
+</p>
+
+<br>
+
+## 🗄️ Database
+
+<p align="start">
+<img src="https://img.shields.io/badge/MongoDB-1F2937?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+<img src="https://img.shields.io/badge/MySQL-1F2937?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+</p>
+
+<br>
+
+## 🛠️ Tools & Deployment
+
+<p align="start">
+<img src="https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=F05033" />
+<img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/NPM-1F2937?style=for-the-badge&logo=npm&logoColor=CB3837" />
+<img src="https://img.shields.io/badge/Nodemon-1F2937?style=for-the-badge&logo=nodemon&logoColor=76D04B" />
+<img src="https://img.shields.io/badge/Vercel-1F2937?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-1F2937?style=for-the-badge&logo=render&logoColor=46E3B7" />
+</p>
+
+<br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Deepsingh1704&theme=transparent" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepsingh1704&layout=compact&theme=transparent" />
+<br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Deepsingh1704&theme=transparent" />
+</p>
+
+<br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Deepsingh1704&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Deepsingh1704&theme=algolia&no-frame=true&no-bg=true" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Deepsingh1704&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br>
 
----
-[![](https://visitcount.itsvg.in/api?id=Deepsingh1704&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🐍 Contribution Activity
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/Deepsingh1704/Deepsingh1704/output/github-contribution-grid-snake.svg" />
+</p>
+
+<br>
+
+<br>
+
+## ♟️ Quote of the Day
+
+
+<div align="right"><i>
+“Only the player with the initiative has the right to attack.”
+</i></div>
+
+<br>
