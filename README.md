@@ -13,7 +13,7 @@ MERN STACK DEVELOPER | PROBLEM SOLVER | CHESS ENTHUSIAST ♟️
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;Clean+Code+Focused;Targeting+1800+Chess+Rating;Open+To+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;Enhancing+day+by+day;Open+to+opportunities" />
 </p>
 
 <br>
@@ -92,30 +92,19 @@ MERN STACK DEVELOPER | PROBLEM SOLVER | CHESS ENTHUSIAST ♟️
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Deepsingh1704&theme=transparent" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepsingh1704&layout=compact&theme=transparent" />
-<br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Deepsingh1704&theme=transparent" />
+
+<img src="https://streak-stats.demolab.com?user=Deepsingh1704&theme=transparent" />
 </p>
 
 <br>
 
-## 🏆 GitHub Trophies
+
+## 📊 Contribution Overview
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Deepsingh1704&theme=algolia&no-frame=true&no-bg=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepsingh1704&theme=github-compact" />
 </p>
 
-<br>
-
-## 🐍 Contribution Activity
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Deepsingh1704/Deepsingh1704/output/github-contribution-grid-snake.svg" />
-</p>
-
-<br>
 
 <br>
 
