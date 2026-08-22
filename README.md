@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-MERN STACK DEVELOPER | PROBLEM SOLVER | CHESS ENTHUSIAST ♟️
+MERN STACK DEVELOPER | PROBLEM SOLVER 
 </p>
 
 <p align="center">
@@ -26,7 +26,6 @@ I build full-stack applications that are clean, scalable, and production-ready.
 - ⚡ MERN Stack Developer  
 - 🧩 Problem Solver & DSA Enthusiast  
 - 🤖 Exploring AI-driven web systems  
-- ♟️ Chess Player who believes strategy wins games — in chess & in code  
 - 📈 Focused on growth, consistency, and long-term mastery
 
 <br>
