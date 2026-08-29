@@ -13,7 +13,7 @@ MERN STACK DEVELOPER | PROBLEM SOLVER
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;Enhancing+day+by+day;Open+to+opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;Enhancing+d[...]" />
 </p>
 
 <br>
@@ -91,7 +91,7 @@ I build full-stack applications that are clean, scalable, and production-ready.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Deepsingh1704&theme=transparent" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Deepsingh1704&theme=transparent" />
 </p>
 
 <br>
@@ -107,7 +107,7 @@ I build full-stack applications that are clean, scalable, and production-ready.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deepsingh1704/Deepsingh1704/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Deepsingh1704/Deepsingh1704/main/output/github-contribution-grid-snake.svg" />
 </p>
 
 ## ♟️ Quote of the Day
