@@ -13,7 +13,8 @@ MERN STACK DEVELOPER | PROBLEM SOLVER
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;Enhanci[...]
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;Enhancing+day+by+day;Open+to+opportunities" />
+ 
 </p>
 
 <br>
@@ -99,7 +100,7 @@ I build full-stack applications that are clean, scalable, and production-ready.
 ## 📊 Contribution Overview
 
 <p align="center">
-<img src="https://ghchart.rshah.org/Deepsingh1704" alt="GitHub contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepsingh1704&theme=github-compact&hide_border=true" />
 </p>
 
 <br>
@@ -107,7 +108,8 @@ I build full-stack applications that are clean, scalable, and production-ready.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/master/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/Deepsingh1704/Deepsingh1704/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Deepsingh1704/Deepsingh1704/main/output/github-contribution-grid-snake.svg" />
 </p>
 
 ## ♟️ Quote of the Day
