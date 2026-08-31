@@ -20,18 +20,18 @@ MERN STACK DEVELOPER | PROBLEM SOLVER
 <br>
 <br>
 
-## 👨‍💻 About Me
+## About Me
 
 I build full-stack applications that are clean, scalable, and production-ready.
 
-- ⚡ MERN Stack Developer  
-- 🧩 Problem Solver & DSA Enthusiast  
-- 🤖 Exploring AI-driven web systems  
-- 📈 Focused on growth, consistency, and long-term mastery
+- MERN Stack Developer  
+- Problem Solver & DSA Enthusiast  
+- Exploring AI-driven web systems  
+- Focused on growth, consistency, and long-term mastery
 
 <br>
 
-## 🧠 Programming Languages
+## Programming Languages
 
 <p align="start">
 <img src="https://img.shields.io/badge/Java-1F2937?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -41,7 +41,7 @@ I build full-stack applications that are clean, scalable, and production-ready.
 
 <br>
 
-## 🚀 Frontend
+## Frontend
 
 <p align="start">
 <img src="https://img.shields.io/badge/React-1F2937?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -55,7 +55,7 @@ I build full-stack applications that are clean, scalable, and production-ready.
 
 <br>
 
-## ⚙️ Backend
+## Backend
 
 <p align="start">
 <img src="https://img.shields.io/badge/Node.js-1F2937?style=for-the-badge&logo=node.js&logoColor=6DA55F" />
@@ -67,7 +67,7 @@ I build full-stack applications that are clean, scalable, and production-ready.
 
 <br>
 
-## 🗄️ Database
+## Database
 
 <p align="start">
 <img src="https://img.shields.io/badge/MongoDB-1F2937?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
@@ -76,7 +76,7 @@ I build full-stack applications that are clean, scalable, and production-ready.
 
 <br>
 
-## 🛠️ Tools & Deployment
+## Tools & Deployment
 
 <p align="start">
 <img src="https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=F05033" />
@@ -89,15 +89,14 @@ I build full-stack applications that are clean, scalable, and production-ready.
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Deepsingh1704&theme=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Deepsingh1704&theme=transparent&hide_border=true" />
 </p>
-
 <br>
 
-## 📊 Contribution Overview
+## Contribution Overview
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepsingh1704&theme=github-compact&hide_border=true" />
@@ -105,22 +104,16 @@ I build full-stack applications that are clean, scalable, and production-ready.
 
 <br>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Deepsingh1704/Deepsingh1704/output/github-contribution-grid-snake.svg" />
   <img src="https://raw.githubusercontent.com/Deepsingh1704/Deepsingh1704/main/output/github-contribution-grid-snake.svg" />
 </p>
 
-## ♟️ Quote of the Day
 
-<div align="right"><i>
-“Only the player with the initiative has the right to attack.”
-</i></div>
 
-<br>
-
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="start">
 <a href="https://www.linkedin.com/in/deeepsinghh/">
@@ -130,10 +123,19 @@ I build full-stack applications that are clean, scalable, and production-ready.
 <a href="mailto:deep.singhh1704@gmail.com">
 <img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<a href="https://www.chess.com/member/mr_deeeppp">
-<img src="https://img.shields.io/badge/Chess.com-1F2937?style=for-the-badge&logo=chessdotcom&logoColor=white"/>
-</a>
 </p>
 
 <br>
+
+<!-- ========================= -->
+
+<!--       FOOTER BANNER        -->
+
+<!-- ========================= -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:2563EB&height=120&section=footer"
+    width="100%"
+  />
+</p>
